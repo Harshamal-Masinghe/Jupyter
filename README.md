@@ -19,7 +19,7 @@ To get started with the notebooks, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/harshamalmasinghe/your-repo-name.git
+   git clone https://github.com/Harshamal-Masinghe/your-repo-name.git
    ```
 
 2. **Install required packages:**
